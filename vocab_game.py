@@ -129,5 +129,4 @@ if st.session_state.get("is_ended", False):
 
 st.divider()
 st.write("นายปรวัธน์  ศรีสุข เลขที่ 10 ม.4/17")
-เขียนข้อความ
-เขียนถึง gifted music
+
